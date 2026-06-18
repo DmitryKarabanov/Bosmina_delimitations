@@ -4,13 +4,13 @@ This directory contains all outputs from the integrative delimitation analysis.
 
 ## Subdirectories
 
-###  [Delimitation Results](delimitation/)
+###  [Delimitation Results](https://github.com/DmitryKarabanov/Bosmina_delimitaions/tree/main/results/delimitation/)
 Summary tables, congruence matrices, and method-specific outputs.
 
-###  [Statistics](stat/)
+###  [Statistics](https://github.com/DmitryKarabanov/Bosmina_delimitaions/tree/main/results/stat/)
 Genetic diversity.
 
-###  [Phylogenetic Trees](trees/)
+###  [Phylogenetic Trees](https://github.com/DmitryKarabanov/Bosmina_delimitaions/tree/main/results/trees/)
 Newick and Nexus tree files with clade annotations.
 
 ## Featured Files
