@@ -15,10 +15,10 @@ Complete source code for all computational analyses.
 ## Requirements
 
 - R >= 4.5
-- Packages: `ape`, `dplyr`, `tidyr`, ets.
+- Packages: `ape`, `dplyr`, `tidyr`, etc.
 - Bioconductor packages for phylogenetic analysis
 - Python >= 3.1
-- - Packages: `numpy`, `scipy`, `pyvis`, ets.
+- - Packages: `numpy`, `scipy`, `pyvis`, etc.
 
 ## Usage
 For bGMYC delimitation you need our bGMYC4 package and R>=4.5
