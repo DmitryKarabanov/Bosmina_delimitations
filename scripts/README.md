@@ -42,3 +42,8 @@ Scripts generate results in /results/ directory.
 -  **[Results](../results/)** — Static tables and statistical outputs
 
 [← Back to Main Page](../README.md)
+
+---
+### [GitHub repository](https://github.com/DmitryKarabanov/Bosmina_delimitaions/tree/main/scripts)
+
+_This supplementary material is openly available under the GNU GPL v3.0 License. Last updated: 2026._
