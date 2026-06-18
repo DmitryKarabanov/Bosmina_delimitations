@@ -71,7 +71,7 @@ A: Download the file locally — GitHub has size limits for inline HTML renderin
 
 ##  Related Resources
 
--  **[Raw Data](../data/)** — Input files used to generate these visualizations
+-  **[Data](../data/)** — Input files used to generate these visualizations
 -  **[Scripts](../scripts/)** — Source code (R) for reproducing all figures
 -  **[Results](../results/)** — Static tables and statistical outputs
 
