@@ -1,4 +1,3 @@
-
 #  Interactive Visualizations
 
 This directory contains all interactive HTML visualizations supporting the integrative species delimitation analysis of *Bosmina* (Cladocera: Bosminidae).
@@ -9,12 +8,11 @@ Each visualization is a self-contained HTML file that can be opened directly in 
 ##  Available Visualizations
 
 | # | Visualization | Main file | Description |
-|---|---------------|------|-------------|
-| 1 |  **Net** | `Bosmina_TCS_MedianJoining` | A nice haplotype network for the entire sample of Bosmina  |
-| 2 |  **bGMYC4** | `bGMYC_interactive_heatmap` | bGMYC4 results with phylogenetic tree and heatmap |
-| 3 |  **Summary** | `Delimitation_heatmap_bgmyc_tree` | Comparison charts of all delimitation methods |
-| 4 |  **Agreement** | `Agreement_Matrix` | Interactive heatmap showing congruence between delimitation methods, synchronized with clade-colored phylogenetic tree |
-
+|---|---------------|-----------|-------------|
+| 1 | **[Net](Bosmina_TCS_MedianJoining.html)** | `Bosmina_TCS_MedianJoining.html` | A nice haplotype network for the entire sample of *Bosmina* |
+| 2 | **[bGMYC4](bGMYC_interactive_heatmap.html)** | `bGMYC_interactive_heatmap.html` | bGMYC4 results with phylogenetic tree and heatmap |
+| 3 | **[Summary](Delimitation_heatmap_bgmyc_tree.html)** | `Delimitation_heatmap_bgmyc_tree.html` | Comparison charts of all delimitation methods |
+| 4 | **[Agreement](Agreement_Matrix.html)** | `Agreement_Matrix.html` | Interactive heatmap showing congruence between delimitation methods |
 
 ---
 
@@ -39,14 +37,10 @@ Both panels share the same Y-axis, so each row in the matrix corresponds exactly
 ##  How to Use
 
 ### Option 1: View on GitHub Pages (recommended)
-Visit: **[Net](https://dmitrykarabanov.github.io/Bosmina_delimitations/interactive/Bosmina_TCS_MedianJoining.html)**
-
-Visit: **[bGMYC4](https://dmitrykarabanov.github.io/Bosmina_delimitations/interactive/bGMYC_interactive_heatmap.html)**
-
-Visit: **[Summary](https://dmitrykarabanov.github.io/Bosmina_delimitations/interactive/Delimitation_heatmap_bgmyc_tree.html)**
-
-Visit: **[Agreement](https://dmitrykarabanov.github.io/Bosmina_delimitations/interactive/Agreement_Matrix.html)**
-
+* [**Net**](Bosmina_TCS_MedianJoining.html)
+* [**bGMYC4**](bGMYC_interactive_heatmap.html)
+* [**Summary**](Delimitation_heatmap_bgmyc_tree.html)
+* [**Agreement**](Agreement_Matrix.html)
 
 ### Option 2: Open locally
 1. Download the `.html` file and the additional directory
