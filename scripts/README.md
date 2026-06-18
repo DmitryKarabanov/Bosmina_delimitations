@@ -4,12 +4,12 @@ Complete source code for all computational analyses.
 
 ## Scripts
 
-### delimitaions/
+### [Delimitation](delimitaions/)
 - **`bGMYC_interactive.R`** — Agreement matrix calculation and interactive visualization (Plotly + ggtree)
 - **`locMin_delimitation.R`** — Calculation of local minima (locMin), two distance variants
 - ...
 
-### genepop/
+### [Genetic diversity](genepop/)
 - Scripts for calculating genetic diversity and constructing an interactive haplotype network
 
 ## Requirements
