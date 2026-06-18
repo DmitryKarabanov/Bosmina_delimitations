@@ -9,7 +9,7 @@ Complete source code for all computational analyses.
 - **`locMin_delimitation.R`** — Calculation of local minima (locMin), two distance variants
 - ...
 
-### [Genetic diversity](genepop/)
+### [Genetic diversity and Net](genepop/)
 - Scripts for calculating genetic diversity and constructing an interactive haplotype network
 
 ## Requirements
