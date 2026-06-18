@@ -1,3 +1,9 @@
+---
+layout: default
+title: Interactive Visualizations
+---
+
+
 #  Interactive Visualizations
 
 This directory contains all interactive HTML visualizations supporting the integrative species delimitation analysis of *Bosmina* (Cladocera: Bosminidae).
