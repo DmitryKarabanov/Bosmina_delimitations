@@ -35,4 +35,8 @@ Scripts generate results in /results/ directory.
 
 ---
 
-← [Back to main page](../index.md)
+## 📂 Related Resources
+
+- 📊 **[Raw Data](../data/)** — Input files used to generate these visualizations
+- 💻 **[Interactive](../interactive/)** — Source code (R) for reproducing all figures
+- 📈 **[Results](../results/)** — Static tables and statistical outputs
