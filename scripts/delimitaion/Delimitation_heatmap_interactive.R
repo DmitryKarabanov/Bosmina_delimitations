@@ -346,7 +346,7 @@ combined  <- combined %>% layout(
 # ==========================================================
 # 12. SAVING
 # ==========================================================
-htmlwidgets::saveWidget(combined, OUT_HTML, selfcontained = TRUE, title = "Tree and Delimitation")
+htmlwidgets::saveWidget(combined, OUT_HTML, selfcontained = FALSE, title = "Tree and Delimitation")
 
 cat("\n=================================================\n")
 cat("  DONE!\n")
