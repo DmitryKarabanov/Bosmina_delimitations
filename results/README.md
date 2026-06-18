@@ -11,7 +11,7 @@ Summary tables, congruence matrices, and method-specific outputs.
 Genetic diversity.
 
 ###  [Phylogenetic Trees](https://github.com/DmitryKarabanov/Bosmina_delimitaions/tree/main/results/trees/)
-Newick and Nexus tree files with clade annotations.
+Newick, nexus and high-resolution illustrations of tree files with clade annotations.
 
 ## Featured Files
 
