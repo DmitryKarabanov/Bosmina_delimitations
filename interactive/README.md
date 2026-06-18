@@ -39,13 +39,13 @@ Both panels share the same Y-axis, so each row in the matrix corresponds exactly
 ##  How to Use
 
 ### Option 1: View on GitHub Pages (recommended)
-Visit: **[Net](https://dmitrykarabanov.github.io/Bosmina_delimitaions/interactive/Bosmina_TCS_MedianJoining.html)**
+Visit: **[Net](https://dmitrykarabanov.github.io/Bosmina_delimitations/interactive/Bosmina_TCS_MedianJoining.html)**
 
-Visit: **[bGMYC4](https://dmitrykarabanov.github.io/Bosmina_delimitaions/interactive/bGMYC_interactive_heatmap.html)**
+Visit: **[bGMYC4](https://dmitrykarabanov.github.io/Bosmina_delimitations/interactive/bGMYC_interactive_heatmap.html)**
 
-Visit: **[Summary](https://dmitrykarabanov.github.io/Bosmina_delimitaions/interactive/Delimitation_heatmap_bgmyc_tree.html)**
+Visit: **[Summary](https://dmitrykarabanov.github.io/Bosmina_delimitations/interactive/Delimitation_heatmap_bgmyc_tree.html)**
 
-Visit: **[Agreement](https://dmitrykarabanov.github.io/Bosmina_delimitaions/interactive/Agreement_Matrix.html)**
+Visit: **[Agreement](https://dmitrykarabanov.github.io/Bosmina_delimitations/interactive/Agreement_Matrix.html)**
 
 
 ### Option 2: Open locally
