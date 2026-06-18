@@ -10,22 +10,22 @@ Welcome to the supplementary materials repository for integrative species delimi
 ### Data
 Raw data (sequences and resources table).
 
-**[View Data →](data/README.md)**
+[**View Data →**](data/README.md)
 
 ### Scripts
 Complete source code for all computational analyses and visualization pipelines.
 
-**[View Scripts →](scripts/README.md)**
+[**View Scripts →**](scripts/README.md)
 
 ### Results
 Summary tables and congruence matrices for all delimitation methods.
 
-**[View Results →](results/README.md)**
+[**View Results →**](results/README.md)
 
 ### Interactive
 Interactive visualizations and dashboards.
 
-**[View Interactive →](interactive/README.md)**
+[**View Interactive →**](interactive/README.md)
 
 ---
 **Unwrap your _gift_ on _Git_ Hub and streamline species delimitation:**
