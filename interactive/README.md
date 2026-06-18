@@ -86,3 +86,9 @@ A: Download the file locally — GitHub has size limits for inline HTML renderin
 
 
 [← Back to Main Page](../README.md)
+
+---
+### [GitHub repository](https://github.com/DmitryKarabanov/Bosmina_delimitaions/tree/main/interactive)
+
+_This supplementary material is openly available under the GNU GPL v3.0 License. Last updated: 2026._
+
