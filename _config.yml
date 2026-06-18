@@ -5,6 +5,10 @@ baseurl: "/Bosmina"
 url: "https://dmitrykarabanov.github.io"
 permalink: pretty
 author: Dmitry Karabanov
+social:
+  name: Dmitry Karabanov
+  links:
+    - https://www.researchgate.net/profile/Dmitry-Karabanov
 lang: en
 plugins:
   - jekyll-seo-tag
