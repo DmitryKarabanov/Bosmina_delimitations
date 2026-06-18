@@ -30,5 +30,3 @@ Newick, nexus and high-resolution illustrations of tree files with clade annotat
 -  **[Interactive](../interactive/)** — Interactive HTML visualizations
 
 [← Back to Main Page](../README.md)
-
-_This supplementary material is openly available under the GNU GPL v3.0 License. Last updated: 2026._
