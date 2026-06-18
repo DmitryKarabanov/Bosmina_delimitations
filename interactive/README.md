@@ -56,7 +56,6 @@ Visit: **[https://dmitrykarabanov.github.io/Bosmina_delimitaions/interactive/Bos
 - 📊 **[Raw Data](../data/)** — Input files used to generate these visualizations
 - 💻 **[Scripts](../scripts/)** — Source code (R) for reproducing all figures
 - 📈 **[Results](../results/)** — Static tables and statistical outputs
-- 🏠 **[Main Page](../)** — Return to repository homepage
 
 ---
 
