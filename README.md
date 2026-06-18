@@ -19,7 +19,7 @@ Welcome to the supplementary materials repository for integrative species delimi
 <div style="border: 2px solid #A65628; border-radius: 12px; padding: 20px; background: #fff;">
 <h4 style="color: #A65628; margin-top: 0;">📉 Statistics</h4>
 <p>Statistical summaries, congruence scores, and method comparisons.</p>
-<a href="https://github.com/DmitryKarabanov/Bosmina_delimitaions/tree/main/results/statistics" style="color: #A65628; font-weight: bold; text-decoration: none;">View Statistics →</a>
+<a href="https://github.com/DmitryKarabanov/Bosmina_delimitaions/tree/main/results/stat" style="color: #A65628; font-weight: bold; text-decoration: none;">View Statistics →</a>
 </div>
 
 <div style="border: 2px solid #F781BF; border-radius: 12px; padding: 20px; background: #fff;">
