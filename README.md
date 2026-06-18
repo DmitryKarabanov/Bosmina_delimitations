@@ -12,31 +12,21 @@ Raw data (sequences and resources table).
 
 **[View Data →](data/README.md)**
 
-### Results
-Summary tables and congruence matrices for all delimitation methods.
-
-**[View Results →](results/README.md)**
-
 ### Scripts
 Complete source code for all computational analyses and visualization pipelines.
 
 **[View Scripts →](scripts/README.md)**
+
+### Results
+Summary tables and congruence matrices for all delimitation methods.
+
+**[View Results →](results/README.md)**
 
 ### Interactive
 Interactive visualizations and dashboards.
 
 **[View Interactive →](interactive/README.md)**
 
----
-
-## About This Study
-
-| **Organisms** | *Bosmina* spp. (Cladocera: Bosminidae) |
-|---------------|----------------------------------------|
-| **Focus**     | Integrative species delimitation       |
-| **Clades**    | *Eubosmina*, *Liederobosmina*, *Lunobosmina*, Colombian clade |
-| **Methods**   | ABGD, ASAP, bPTP, GMYC, PTP, and others |
-| **License**   | GNU GPL v3.0                           |
 
 ---
 
