@@ -27,6 +27,10 @@ Interactive visualizations and dashboards.
 
 **[View Interactive →](interactive/README.md)**
 
+---
+**Unwrap your _gift_ on _Git_ Hub and streamline species delimitation:**
+
+[bGMYC4 package](https://github.com/DmitryKarabanov/bGMYC4)
 
 ---
 
