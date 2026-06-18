@@ -18,8 +18,8 @@ Newick, nexus and high-resolution illustrations of tree files with clade annotat
 
 ## Featured Files
 
-- **`stat/bosmina_full_popgen_stats.csv`** — Genetic diversity
 - **`delimitation/bGMYC_delimitation_results.csv`** — Results of bGMYC4 
+- **`stat/bosmina_full_popgen_stats.csv`** — Genetic diversity
 - **`trees/Bosmina_ML.tree`** — IQ-TREE phylogenetic tree
 
 ---
