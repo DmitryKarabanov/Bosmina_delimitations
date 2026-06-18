@@ -5,6 +5,7 @@ This directory contains all input data.
 ## Contents
 
 **[Raw Data](resources/)** — Sequence alignments and list of IDs
+
 **[Input Files](input/)** — Input files
 
 ## Usage
