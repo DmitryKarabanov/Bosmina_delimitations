@@ -1,8 +1,3 @@
----
-layout: default
-title: Interactive Visualizations
----
-
 
 #  Interactive Visualizations
 
