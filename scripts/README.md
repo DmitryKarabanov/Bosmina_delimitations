@@ -4,7 +4,7 @@ Complete source code for all computational analyses.
 
 ## Scripts
 
-### [Delimitation](delimitaions/)
+### [Delimitation](delimitaion/)
 - **`bGMYC_interactive.R`** — Agreement matrix calculation and interactive visualization (Plotly + ggtree)
 - **`locMin_delimitation.R`** — Calculation of local minima (locMin), two distance variants
 - ...
