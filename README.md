@@ -46,7 +46,4 @@ Interactive visualizations and dashboards.
 
 For questions about the data, scripts, or analysis, welcome to GitHub.
 
----
-### [GitHub repository](https://github.com/DmitryKarabanov/Bosmina_delimitaions/)
-
 _This supplementary material is openly available under the GNU GPL v3.0 License. Last updated: 2026._
