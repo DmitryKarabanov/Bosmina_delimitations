@@ -10,27 +10,27 @@ Welcome to the supplementary materials repository for integrative species delimi
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 40px 0;">
 
+<div style="border: 2px solid #A65628; border-radius: 12px; padding: 20px; background: #fff;">
+<h4 style="color: #A65628; margin-top: 0;">📉 Statistics</h4>
+<p>Raw data.</p>
+<a href="https://github.com/DmitryKarabanov/Bosmina_delimitaions/tree/main/data" style="color: #A65628; font-weight: bold; text-decoration: none;">View Statistics →</a>
+</div>
+
 <div style="border: 2px solid #FF7F00; border-radius: 12px; padding: 20px; background: #fff;">
 <h4 style="color: #FF7F00; margin-top: 0;">📋 Delimitation Results</h4>
 <p>Summary tables and congruence matrices for all delimitation methods.</p>
-<a href="https://github.com/DmitryKarabanov/Bosmina_delimitaions/tree/main/results/delimitation" style="color: #FF7F00; font-weight: bold; text-decoration: none;">View Results →</a>
-</div>
-
-<div style="border: 2px solid #A65628; border-radius: 12px; padding: 20px; background: #fff;">
-<h4 style="color: #A65628; margin-top: 0;">📉 Statistics</h4>
-<p>Statistical summaries, congruence scores, and method comparisons.</p>
-<a href="https://github.com/DmitryKarabanov/Bosmina_delimitaions/tree/main/results/stat" style="color: #A65628; font-weight: bold; text-decoration: none;">View Statistics →</a>
+<a href="https://github.com/DmitryKarabanov/Bosmina_delimitaions/tree/main/results" style="color: #FF7F00; font-weight: bold; text-decoration: none;">View Results →</a>
 </div>
 
 <div style="border: 2px solid #F781BF; border-radius: 12px; padding: 20px; background: #fff;">
 <h4 style="color: #F781BF; margin-top: 0;">🌳 Phylogenetic Trees</h4>
-<p>Newick and Nexus tree files with clade annotations.</p>
-<a href="https://github.com/DmitryKarabanov/Bosmina_delimitaions/tree/main/results/trees" style="color: #F781BF; font-weight: bold; text-decoration: none;">View Trees →</a>
+<p>Scripta.</p>
+<a href="https://github.com/DmitryKarabanov/Bosmina_delimitaions/tree/main/scripts" style="color: #F781BF; font-weight: bold; text-decoration: none;">View Trees →</a>
 </div>
 
 <div style="border: 2px solid #999999; border-radius: 12px; padding: 20px; background: #fff;">
 <h4 style="color: #666; margin-top: 0;">🎭 Interactive Figures</h4>
-<p>Plotly-based interactive visualizations and dashboards.</p>
+<p>Interactive visualizations and dashboards.</p>
 <a href="https://github.com/DmitryKarabanov/Bosmina_delimitaions/tree/main/results/interactive" style="color: #666; font-weight: bold; text-decoration: none;">Browse Interactive →</a>
 </div>
 
