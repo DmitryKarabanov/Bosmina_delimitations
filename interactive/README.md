@@ -1,7 +1,7 @@
 #  Interactive Visualizations
 
 This directory contains all interactive HTML visualizations supporting the integrative species delimitation analysis of *Bosmina* (Cladocera: Bosminidae).
-Each visualization is a **self-contained HTML file** that can be opened directly in any modern web browser. No special software or internet connection is required.
+Each visualization is a self-contained HTML file that can be opened directly in any modern web browser. No special software or internet connection is required.
 
 ---
 
@@ -59,14 +59,6 @@ Visit: **[Agreement](https://dmitrykarabanov.github.io/Bosmina_delimitaions/inte
 
 ---
 
-##  Related Resources
-
--  **[Raw Data](../data/)** — Input files used to generate these visualizations
--  **[Scripts](../scripts/)** — Source code (R) for reproducing all figures
--  **[Results](../results/)** — Static tables and statistical outputs
-
----
-
 ##  Troubleshooting
 
 **Q: The visualization doesn't load.**  
@@ -77,5 +69,14 @@ A: Make sure JavaScript is enabled in your browser settings.
 
 **Q: The file is too large to view on GitHub.**  
 A: Download the file locally — GitHub has size limits for inline HTML rendering.
+
+---
+
+##  Related Resources
+
+-  **[Raw Data](../data/)** — Input files used to generate these visualizations
+-  **[Scripts](../scripts/)** — Source code (R) for reproducing all figures
+-  **[Results](../results/)** — Static tables and statistical outputs
+
 
 [← Back to Main Page](../README.md)
