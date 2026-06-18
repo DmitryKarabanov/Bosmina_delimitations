@@ -37,10 +37,10 @@ Both panels share the same Y-axis, so each row in the matrix corresponds exactly
 ## 💻 How to Use
 
 ### Option 1: View on GitHub Pages (recommended)
-Visit: **[https://dmitrykarabanov.github.io/Bosmina_delimitaions/interactive/](https://dmitrykarabanov.github.io/Bosmina_delimitaions/interactive/)**
+Visit: **[https://dmitrykarabanov.github.io/Bosmina_delimitaions/interactive/Bosmina_TCS_MedianJoining.html](https://dmitrykarabanov.github.io/Bosmina_delimitaions/interactive/Bosmina_TCS_MedianJoining.html)**
 
 ### Option 2: Open locally
-1. Download the `.html` file
+1. Download the `.html` file and the additional directory
 2. Double-click to open in your web browser
 3. Use mouse to **zoom**, **pan**, and **hover** for details
 
@@ -48,18 +48,6 @@ Visit: **[https://dmitrykarabanov.github.io/Bosmina_delimitaions/interactive/](h
 - Take screenshots for static figures
 - Use browser "Print → Save as PDF" for publication-ready outputs
 - Export Plotly data via the camera icon in the toolbar
-
----
-
-## 🛠 Technical Details
-
-| Property | Value |
-|----------|-------|
-| **Rendering engine** | Plotly.js |
-| **Source scripts** | `/scripts/Heatmap_CoMa_NEW.R` |
-| **File size** | ~5–15 MB per visualization |
-| **Dependencies** | Self-contained (no internet required) |
-| **Browser support** | Chrome 80+, Firefox 78+, Safari 14+, Edge 80+ |
 
 ---
 
@@ -83,8 +71,3 @@ A: Make sure JavaScript is enabled in your browser settings.
 **Q: The file is too large to view on GitHub.**  
 A: Download the file locally — GitHub has size limits for inline HTML rendering.
 
----
-
-<p align="center">
-<em>Generated as part of the Bosmina integrative delimitation study © 2026 Dmitry Karabanov</em>
-</p>
