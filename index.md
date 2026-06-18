@@ -54,17 +54,11 @@ Welcome to the supplementary materials repository for integrative species delimi
 
 ---
 
-## 👨‍🔬 Contact & Citation
+## 👨‍🔬 Contact
 
 **Dmitry Karabanov**
 
-For questions about the data, scripts, or analysis, please [open an issue on GitHub](https://github.com/DmitryKarabanov/Bosmina_delimitaions/issues).
-
-### How to Cite
-
-If you use these data or scripts in your research, please cite:
-
-> Karabanov D. et al. (2026). Integrative species delimitation of *Bosmina*... *[Journal name, in press]*
+For questions about the data, scripts, or analysis, welcome [GitHub](https://github.com/DmitryKarabanov/).
 
 ---
 
