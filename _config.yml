@@ -4,3 +4,8 @@ description: Supplementary Materials & Interactive Visualizations
 baseurl: "/Bosmina"
 url: "https://dmitrykarabanov.github.io"
 permalink: pretty
+author: Dmitry Karabanov
+lang: en
+plugins:
+  - jekyll-seo-tag
+  
