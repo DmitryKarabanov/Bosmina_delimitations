@@ -306,8 +306,8 @@ print(f"Added {medians_added} median vectors in {iteration} iterations.")
 # ==========================================
 print("Generating final network with enlarged nodes...")
 COLORS = {
-    'NAmer': '#1f77b4', 'SAmer': '#2ca02c', 'Eur': '#d62728',
-    'Asia': '#9467bd', 'Austral': '#8c564b', 'Unknown': '#cccccc'
+    'NAmer': '#1f77b4', 'SAmer': '#d62728', 'Eur': '#8c564b',
+    'Asia': '#f1c40f', 'Austral': '#2ca02c', 'Unknown': '#cccccc'
 }
 
 def make_pie_svg(proportions, size=64):
@@ -585,12 +585,12 @@ legend_html = f"""
 border: 1px solid #ccc; padding: 15px; border-radius: 8px; font-family: Arial, sans-serif; 
 box-shadow: 2px 2px 8px rgba(0,0,0,0.15); z-index: 1000; font-size: 13px; color: #333; max-width: 240px;">
     <b style="font-size: 14px;">Regions:</b><br>
-    <span style="color:#1f77b4;">&#9679;</span> NAmer (North America)<br>
-    <span style="color:#2ca02c;">&#9679;</span> SAmer (South America)<br>
-    <span style="color:#d62728;">&#9679;</span> Eur (Europe)<br>
-    <span style="color:#9467bd;">&#9679;</span> Asia (Asia)<br>
-    <span style="color:#8c564b;">&#9679;</span> Austral (Australia)<br>
-    <hr style="margin: 8px 0; border: 0; border-top: 1px solid #ccc;">
+<span style="color:#1f77b4;">&#9679;</span> North America<br>
+<span style="color:#d62728;">&#9679;</span> South America<br>
+<span style="color:#8c564b;">&#9679;</span> Europe<br>
+<span style="color:#f1c40f;">&#9679;</span> Asia<br>
+<span style="color:#2ca02c;">&#9679;</span> Australia<br>
+    <hr style="margin: 12px 0; border: 0; border-top: 2px solid #ccc;">
     <b>Algorithm:</b> Median-Joining<br>
     <b>Threshold:</b> TCS {int(TCS_CONFIDENCE*100)}%<br>
     <b>Parsimony limit:</b> {TCS_LIMIT} mut.<br>
