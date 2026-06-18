@@ -4,8 +4,8 @@ This directory contains all input data.
 
 ## Contents
 
-- **resources/** — Sequence alignments and list of IDs
-- **input/** — Input files
+**[Raw Data](resources/)** — Sequence alignments and list of IDs
+**[Input Files](input/)** — Input files
 
 ## Usage
 
