@@ -4,25 +4,30 @@ Complete source code for all computational analyses.
 
 ## Scripts
 
-### Main Analysis
+### delimitaions/
 - **`bGMYC_interactive.R`** — Agreement matrix calculation and interactive visualization (Plotly + ggtree)
+- **`locMin_delimitation.R`** — Calculation of local minima (locMin), two distance variants
+- ...
 
-### Data Processing
-- Scripts for data cleaning and preparation
-
-### Statistical Analysis
-- Scripts for congruence analysis and method comparison
+### genepop/
+- Scripts for calculating genetic diversity and constructing an interactive haplotype network
 
 ## Requirements
 
-- R >= 4.0
-- Packages: `ape`, `dplyr`, `tidyr`, `purrr`, `stringr`, `ggtree`, `treeio`, `plotly`, `htmlwidgets`
+- R >= 4.5
+- Packages: `ape`, `dplyr`, `tidyr`, ets.
 - Bioconductor packages for phylogenetic analysis
+- Python >= 3.1
+- - Packages: `numpy`, `scipy`, `pyvis`, ets.
 
 ## Usage
-
+For bGMYC delimitation you need our bGMYC4 package and R>=4.5
 ```r
-source("scripts/bGMYC_interactive.R")
+bGMYC4_interactive.R
+```
+For nice haplotype network use Anaconda / Python>=3.1
+```Python
+network_new.py
 ```
 
 ## Output
