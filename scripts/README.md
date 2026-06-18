@@ -43,5 +43,3 @@ Scripts generate results in /results/ directory.
 
 [← Back to Main Page](../README.md)
 
-
-_This supplementary material is openly available under the GNU GPL v3.0 License. Last updated: 2026._
