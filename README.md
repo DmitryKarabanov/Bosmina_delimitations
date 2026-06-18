@@ -44,6 +44,6 @@ Interactive visualizations and dashboards.
 
 **Dmitry Karabanov**
 
-For questions about the data, scripts, or analysis, welcome to GitHub.
+For questions about the data, scripts, or analysis, welcome to [GitHub](https://github.com/DmitryKarabanov/).
 
 _This supplementary material is openly available under the GNU GPL v3.0 License. Last updated: 2026._
