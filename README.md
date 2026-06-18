@@ -6,15 +6,15 @@ Welcome to the supplementary materials repository for integrative species delimi
 
 ---
 
-##  Structure
+#  Structure
 
-# Data 
+## Data 
 Raw data (sequences and pesources table).
 
 <a href="https://github.com/DmitryKarabanov/Bosmina_delimitaions/tree/main/data" style="color: #A65628; font-weight: bold; text-decoration: none;">View Data →</a>
 </div>
 
-# Results 
+## Results 
 Summary tables and congruence matrices for all delimitation methods.
 
 <a href="https://github.com/DmitryKarabanov/Bosmina_delimitaions/tree/main/results" style="color: #FF7F00; font-weight: bold; text-decoration: none;">View Results →</a>
