@@ -10,27 +10,9 @@ Each visualization is a self-contained HTML file that can be opened directly in 
 | # | Visualization | Main file | Description |
 |---|---------------|-----------|-------------|
 | 1 | **Net** | `Bosmina_TCS_MedianJoining.html` | A nice haplotype network for the entire sample of *Bosmina* |
-| 2 | **bGMYC4** | `bGMYC_interactive_heatmap.html` and its corresponding resource directory` | bGMYC4 results with phylogenetic tree and heatmap |
-| 3 | **Summary** | `Delimitation_heatmap_bgmyc_tree.html` and its corresponding resource directory` | Comparison charts of all delimitation methods |
-| 4 | **Agreement** | `Agreement_Matrix.html` and its corresponding resource directory` | Interactive heatmap showing congruence between delimitation methods |
-
----
-
-##  Featured Visualization
-
-Our main interactive figure combines two synchronized views:
-
-###  Left Panel: Clade-Colored Phylogeny
-- **Branches colored** by major clades 
-- **Hover** any branch to see taxon name / clade assignment / branch length
-
-###  Right Panel: Agreement Matrix
-- **Heatmap** showing pairwise agreement between delimitation method(s)
-- **Color scale** from 0% agreement to 100% agreement
-- **Hover** any cell to see taxon names / agreement percentage 
-
-###  Synchronization
-Both panels share the same Y-axis, so each row in the matrix corresponds exactly to a tip on the tree.
+| 2 | **bGMYC4** | `bGMYC_interactive_heatmap.html` and its corresponding resource directory | bGMYC4 results with phylogenetic tree and heatmap |
+| 3 | **Summary** | `Delimitation_heatmap_bgmyc_tree.html` and its corresponding resource directory | Comparison charts of all delimitation methods |
+| 4 | **Agreement** | `Agreement_Matrix.html` and its corresponding resource directory | Interactive heatmap showing congruence between delimitation methods |
 
 ---
 
@@ -58,6 +40,26 @@ Both panels share the same Y-axis, so each row in the matrix corresponds exactly
 - Export Plotly data via the camera icon in the toolbar
 
 ---
+
+##  Featured Visualization
+
+Our main interactive figure combines two synchronized views:
+
+###  Left Panel: Clade-Colored Phylogeny
+- **Branches colored** by major clades 
+- **Hover** any branch to see taxon name / clade assignment / branch length
+
+###  Right Panel: Agreement Matrix
+- **Heatmap** showing pairwise agreement between delimitation method(s)
+- **Color scale** from 0% agreement to 100% agreement
+- **Hover** any cell to see taxon names / agreement percentage 
+
+###  Synchronization
+Both panels share the same Y-axis, so each row in the matrix corresponds exactly to a tip on the tree.
+
+---
+
+
 
 ##  Troubleshooting
 
