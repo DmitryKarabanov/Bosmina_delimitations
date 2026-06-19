@@ -1,3 +1,4 @@
+# trigger rebuild 2026-06-19
 theme: jekyll-theme-cayman
 title: Bosmina Integrative Delimitation
 description: Supplementary Materials & Interactive Visualizations
@@ -15,5 +16,4 @@ social:
 lang: en
 
 plugins:
-  - jekyll-seo-tag
-  
+  - jekyll-seo-tag  
