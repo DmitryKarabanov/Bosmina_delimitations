@@ -9,10 +9,10 @@ Each visualization is a self-contained HTML file that can be opened directly in 
 
 | # | Visualization | Main file | Description |
 |---|---------------|-----------|-------------|
-| 1 | **Net** | `Bosmina_TCS_MedianJoining.html` | A nice haplotype network for the entire sample of *Bosmina* |
-| 2 | **bGMYC4** | `bGMYC_interactive_heatmap.html and its corresponding resource directory` | bGMYC4 results with phylogenetic tree and heatmap |
-| 3 | **Summary** | `Delimitation_heatmap_bgmyc_tree.html and its corresponding resource directory` | Comparison charts of all delimitation methods |
-| 4 | **Agreement** | `Agreement_Matrix.html and its corresponding resource directory` | Interactive heatmap showing congruence between delimitation methods |
+| 1 | **Net** | [`Bosmina_TCS_MedianJoining.html`](https://github.com/DmitryKarabanov/Bosmina/blob/main/interactive/Bosmina_TCS_MedianJoining.html) | A nice haplotype network for the entire sample of *Bosmina* |
+| 2 | **bGMYC4** | [`bGMYC_interactive_heatmap.html`](https://github.com/DmitryKarabanov/Bosmina/blob/main/interactive/Delimitation_heatmap_bgmyc_tree.html) and its corresponding resource directory` | bGMYC4 results with phylogenetic tree and heatmap |
+| 3 | **Summary** | [`Delimitation_heatmap_bgmyc_tree.html`](https://github.com/DmitryKarabanov/Bosmina/blob/main/interactive/Delimitation_heatmap_bgmyc_tree.html) and its corresponding resource directory` | Comparison charts of all delimitation methods |
+| 4 | **Agreement** | [`Agreement_Matrix.html`](https://github.com/DmitryKarabanov/Bosmina/blob/main/interactive/Agreement_Matrix.html) and its corresponding resource directory` | Interactive heatmap showing congruence between delimitation methods |
 
 ---
 
