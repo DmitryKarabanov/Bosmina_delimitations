@@ -9,10 +9,10 @@ Each visualization is a self-contained HTML file that can be opened directly in 
 
 | # | Visualization | Main file | Description |
 |---|---------------|-----------|-------------|
-| 1 | **[Net](Bosmina_TCS_MedianJoining.html)** | `Bosmina_TCS_MedianJoining.html` | A nice haplotype network for the entire sample of *Bosmina* |
-| 2 | **[bGMYC4](bGMYC_interactive_heatmap.html)** | `bGMYC_interactive_heatmap.html` | bGMYC4 results with phylogenetic tree and heatmap |
-| 3 | **[Summary](Delimitation_heatmap_bgmyc_tree.html)** | `Delimitation_heatmap_bgmyc_tree.html` | Comparison charts of all delimitation methods |
-| 4 | **[Agreement](Agreement_Matrix.html)** | `Agreement_Matrix.html` | Interactive heatmap showing congruence between delimitation methods |
+| 1 | **Net** | `Bosmina_TCS_MedianJoining.html` | A nice haplotype network for the entire sample of *Bosmina* |
+| 2 | **bGMYC4** | `bGMYC_interactive_heatmap.html and its corresponding resource directory` | bGMYC4 results with phylogenetic tree and heatmap |
+| 3 | **Summary** | `Delimitation_heatmap_bgmyc_tree.html and its corresponding resource directory` | Comparison charts of all delimitation methods |
+| 4 | **Agreement** | `Agreement_Matrix.html and its corresponding resource directory` | Interactive heatmap showing congruence between delimitation methods |
 
 ---
 
@@ -38,10 +38,10 @@ Both panels share the same Y-axis, so each row in the matrix corresponds exactly
 
 ### Option 1: View on GitHub Pages (recommended)
 
-- [**Interactive Network**](./Bosmina_TCS_MedianJoining.html)
-- [**bGMYC4 Heatmap and Tree**](./bGMYC_interactive_heatmap.html)
-- [**Summary Delimitation**](./Delimitation_heatmap_bgmyc_tree.html)
-- [**Agreement Matrix**](./Agreement_Matrix.html)
+- [**Interactive Network**](Bosmina_TCS_MedianJoining.html)
+- [**bGMYC4 Heatmap and Tree**](bGMYC_interactive_heatmap.html)
+- [**Summary Delimitation**](Delimitation_heatmap_bgmyc_tree.html)
+- [**Agreement Matrix**](Agreement_Matrix.html)
 
 ### Option 2: Open locally
 1. Download the `.html` file and the additional directory
