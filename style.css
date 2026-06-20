@@ -91,7 +91,7 @@ body {
 }
 
 .main-content h1 { font-size: 2rem; border-bottom: 1px solid #eaecef; padding-bottom: 0.3em; }
-.main-content h2 { font-size: 1.5rem; }
+.main-content h2 { font-size: 1.75rem; }
 /* Первый абзац после заголовка — без верхнего отступа */
 .main-content h1 + p,
 .main-content h2 + p,
