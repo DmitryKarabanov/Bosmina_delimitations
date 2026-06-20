@@ -20,14 +20,7 @@ Each visualization is a self-contained HTML file that can be opened directly in 
 
 ### Option 1: View on GitHub Pages (recommended)
 
-* [**Interactive Network**](Bosmina_TCS_MedianJoining.html)
-
-* [**bGMYC4 Heatmap and Tree**](bGMYC_interactive_heatmap.html)
-
-* [**Summary Delimitation**](Delimitation_heatmap_bgmyc_tree.html)
-
-* [**Agreement Matrix**](Agreement_Matrix.html)
-
+[**Bosmina Integrative Delimitation**](https://dmitrykarabanov.github.io/Bosmina/)
 
 ### Option 2: Open locally
 1. Download the `.html` file and the additional directory
