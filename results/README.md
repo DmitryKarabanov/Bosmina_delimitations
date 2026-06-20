@@ -2,6 +2,8 @@
 
 This directory contains all outputs from the integrative delimitation analysis.
 
+## Results
+
 **[Delimitation Results](delimitation/)**
 
 Summary tables, congruence matrices, and method-specific outputs.
